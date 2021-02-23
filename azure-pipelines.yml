@@ -15,7 +15,7 @@ variables:
   webAppName: 'webApp for pipeline demo'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'demoEnvironment'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
