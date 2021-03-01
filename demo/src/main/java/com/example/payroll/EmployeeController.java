@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-//data returned by each method wil be written striaght into the response body instead of rendering a template
+//data returned by each method wil be written straight into the response body instead of rendering a template
 class EmployeeController {
 
   private final EmployeeRepository repository;
